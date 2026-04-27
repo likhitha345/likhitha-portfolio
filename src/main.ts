@@ -107,9 +107,7 @@ interface Project { title: string; tag: string; description: string; stack: stri
     <section id="resume" class="section resume reveal">
       <div>
         <p class="eyebrow">Resume</p>
-        <h2>Download-ready resume for recruiter review.</h2>
-        <p>Your resume is embedded as a direct PDF asset so recruiters do not have to ask for it separately.</p>
-        <a class="primary" href="assets/Likhitha_Paipuri_Resume.pdf" target="_blank">Download Resume PDF</a>
+           <a class="primary" href="assets/Likhitha_Paipuri_Resume.pdf" target="_blank">Download Resume PDF</a>
       </div>
       <iframe src="assets/Likhitha_Paipuri_Resume.pdf" title="Likhitha Paipuri Resume"></iframe>
     </section>
